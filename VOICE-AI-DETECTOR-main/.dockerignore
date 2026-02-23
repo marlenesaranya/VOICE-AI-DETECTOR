@@ -1,0 +1,9 @@
+dataset/
+__pycache__/
+# Exclude dataset pkl files only (not the model)
+dataset/*.pkl
+training/*.pkl
+.env
+.git
+.vscode
+venv/
