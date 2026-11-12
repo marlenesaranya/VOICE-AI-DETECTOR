@@ -1,4 +1,5 @@
-TRUST AI – Voice Authenticity & Anti-Scam Intelligence Platform
+**TRUST AI – Voice Authenticity & Anti-Scam Intelligence Platform**
+
 🔍 Overview
 TRUST AI is an ML-based Voice Authenticity and Anti-Scam Intelligence Platform designed to detect AI-generated voices, voice impersonation, and potentially fraudulent scam calls.
 
@@ -71,6 +72,7 @@ Developed a FastAPI backend to handle voice analysis requests and return classif
 - Enhance real-time voice analysis.
 - Integrate advanced deepfake voice detection techniques.
 - Improve risk assessment and explainability.
+- 
 👩‍💻 Project Information
 Project Name: TRUST AI
 Category: Artificial Intelligence & Machine Learning
